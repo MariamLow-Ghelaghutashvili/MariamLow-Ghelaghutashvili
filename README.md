@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariamLow-Ghelaghutashvili
 - 👀 I’m interested in programming, game dev and other such
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently trying to tackle learning Python automation for a specific project
 - 💞️ I’m looking to collaborate on random projects
 - 📫 How to reach me mariam.loughelaghutashvili.1@btu.edu.ge 
 - 😄 Pronouns: I'm female, use whatever's appropriate
